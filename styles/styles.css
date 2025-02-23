@@ -6,7 +6,15 @@
 }
 .recipes-list {
   background-color: blueviolet;
+  width: 10em;
+  margin: 0 auto;
   font-size: 20px;
+  list-style: none;
+  border: black solid;
+  border-radius: 30px;
+}
+.recipes-list-item {
+  margin: 3em 0;
 }
 a {
   color: yellow;
