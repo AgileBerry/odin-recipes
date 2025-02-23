@@ -1,0 +1,22 @@
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  background-color: aqua;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  color: green;
+  background-color: rgb(137, 237, 225);
+}
+p {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+li {
+  list-style: square;
+  color: blanchedalmond;
+  background-color: black;
+}
